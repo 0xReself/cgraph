@@ -2,7 +2,7 @@
 
 A small API like Programm that can Computed Mathematical Graphs and even Optimize flagged Variables for an optimal Result.
 
-![Image](https://colah.github.io/posts/2015-08-Backprop/img/tree-eval-derivs.png)
+![](https://miro.medium.com/max/481/0*ohO11wTD8DCUMVR8)
 
 ## Building
 
